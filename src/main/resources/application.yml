@@ -1,7 +1,2 @@
-spring:
-  data:
-    mongodb:
-      database: chat
-      port: 27000
 server:
   port: 3000
